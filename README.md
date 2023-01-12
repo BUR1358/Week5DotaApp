@@ -2,6 +2,7 @@
 
 Неделя 5: Работа с сетью, Okhttp, Coil, Gson/Moshi
 
+![image](https://user-images.githubusercontent.com/77270310/212068459-b84d61ba-c06e-407f-b438-b7e1c092253d.png)
 
 
 1.0 Сделать новый проект в котором реализовать приложение с двумя экранами:
